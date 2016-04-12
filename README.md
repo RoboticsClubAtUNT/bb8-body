@@ -6,7 +6,8 @@ tbd
 
 ## How to Run Tests
 
-tbd
+We will be using [Arduino Unit 2](https://github.com/mmurdoch/arduinounit) as
+our testing suite.
 
 ## How to Deploy
 
